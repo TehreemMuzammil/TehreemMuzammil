@@ -1,4 +1,4 @@
-Hi there Tehreem here👋
+Hi there Tehreem here👋 
 I’m interested in exploring new ways to work with data.
 🌱 I’m currently learning PowerBI, Tableau and Qlik.
 💞️ I’m looking to collaborate on Kaggle competitions.
