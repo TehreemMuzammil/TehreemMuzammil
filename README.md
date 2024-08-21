@@ -1,5 +1,11 @@
-Hi there Tehreem here👋 
-I’m interested in exploring new ways to work with data.
-🌱 I’m currently learning PowerBI, Tableau and Qlik.
-💞️ I’m looking to collaborate on Kaggle competitions.
-📫 Get in touch with me via email: tehreemmuzzamil9@gmail.com
+I'm a Google Certified Data Analyst with a strong foundation in data management, analysis, and visualization. 
+With a Master’s in Data Analysis from the University of Leicester, I have honed my skills in SQL, Python, R, and various data visualization tools like Power BI and Tableau.
+
+Throughout my career, I've successfully improved operational efficiency, optimized marketing strategies, and delivered actionable insights that drive business growth. 
+My experience spans multiple industries, where I’ve been recognized for enhancing team collaboration, automating processes, and conducting impactful data analysis.
+
+Here on GitHub, I share projects that showcase my skills in data analytics, including customer segmentation, sales forecasting, and web traffic analysis. I’m passionate about using data to solve complex problems and contribute to strategic decision-making.
+
+Feel free to explore my repositories, and let's connect to collaborate or discuss data analytics!
+
+
